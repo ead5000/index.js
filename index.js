@@ -26,10 +26,10 @@ var config = {
         username: "Ead Stealer | t.me/eadstealer",
         footer: {
             text: `Ead Stealer | t.me/eadstealer`,
-            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
+            icon_url: "https://i.imgur.com/fXWCBHX.png",
         },
         href: "https://t.me/eadstealer",
-        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
+        avatar_url: "https://i.imgur.com/fXWCBHX.png"
     },
 
     badges: {
